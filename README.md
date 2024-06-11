@@ -11,7 +11,7 @@ I'm Eric, a passionate data enthusiast actively seeking opportunities in the fie
 ## Projects Highlights
 Here are a few projects that showcase my skills and interests:
 
-- <a href=spencerej7.pythonanywhere.com>SpaceX Dash App</a>: I created this app as part of my IBM Data Science Capstone.
+- <a href="http://spencerej7.pythonanywhere.com">SpaceX Dash App</a>: I created this app as part of my IBM Data Science Capstone.
 
 ## What I'm Looking For
 I'm eager to contribute my skills and knowledge to projects that involve:
